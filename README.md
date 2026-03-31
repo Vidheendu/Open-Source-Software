@@ -3,8 +3,9 @@
 ## Student Details
 Name: Vidheendu Chaturvedi  
 Registration No.- 24BEY10097
+
 Software Chosen: Python
- Course: Open Source Software 
+Course: Open Source Software 
 
 ---
 
